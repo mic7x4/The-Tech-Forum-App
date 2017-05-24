@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "435328952881",
+    "firebase_url": "https://michouseshopapp.firebaseio.com",
+    "project_id": "michouseshopapp",
+    "storage_bucket": "michouseshopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435328952881:android:15f7fbcef3b6f6a2",
+        "android_client_info": {
+          "package_name": "com.michouseshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435328952881-dn40og16j5277tqkdot8hht31j4jh1mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwpHr_DrqIaIGsGIN_GLym_SxCjvkAUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435328952881:android:c4e1eef3af6ac02b",
+        "android_client_info": {
+          "package_name": "com.michouze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435328952881-dn40og16j5277tqkdot8hht31j4jh1mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwpHr_DrqIaIGsGIN_GLym_SxCjvkAUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
